@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pakistan Sports News</string>
+    <string name="no_articles">No news articles found.</string>
+    <string name="no_connection">No internet connection.</string>
+</resources>
